@@ -1,0 +1,6 @@
+fastmcp
+fastapi
+psycopg2
+pydantic
+sqlalchemy
+uvicorn
